@@ -1,0 +1,10 @@
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa forms2.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa_forms2.Form1.resources
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa_forms2.Properties.Resources.resources
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa forms2.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa forms2.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\gissa forms2\bin\Debug\gissa forms2.exe.config
+C:\Users\Elev\source\repos\gissa forms2\bin\Debug\gissa forms2.exe
+C:\Users\Elev\source\repos\gissa forms2\bin\Debug\gissa forms2.pdb
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa forms2.exe
+C:\Users\Elev\source\repos\gissa forms2\obj\Debug\gissa forms2.pdb
